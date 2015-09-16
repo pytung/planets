@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color.
 The two moons may not be a problem for Wolfman.
 But the mummy will apprecite the lack of humanity
+=======
+cold and dry. everything is my favorite color
+the two moons may be a problem for wolman
+but the mummy will appreciate the lack of humanity
+we removed the conflict on this line
+>>>>>>> cb0231335b75e8f0123aad512062537c78816654
